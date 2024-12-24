@@ -1,12 +1,8 @@
 
 # FLock.io
 
-Discord'da aktif olan arkadaşlar, yolculuk sırasında yazdığımı bilirler. Detaya girmeden anlatıyorum.
-
-Ödüllü mü kısmı sizin araştırmanız.
-
 ## Donanım
-Tam olarak test etmedim ama minimum 50 GB disk ve bununla uyumlu CPU ve RAM yeterli olacaktır.
+50 GB disk ve bununla uyumlu CPU ve RAM yeterli olacaktır.
 
 ## Kurulum
 Burada validatör kurulumu anlatılmıştır, isteyenler ana dökümantasyondan training node da kurabilir.
